@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../sunil class work"
+		},
+		{
+			"path": "../html practice"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../tailwind"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project"
+	}
+}
